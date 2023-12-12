@@ -1,6 +1,6 @@
 ### Hi there, I'm Guillaume 👋
 
-![snake gif](https://github.com/guigui64/guigui64/blob/output/github-contribution-grid-snake.svg)
+[guillaumecomte.deno.dev](https://guillaumecomte.deno.dev)
 
 <!--
 **guigui64/guigui64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
